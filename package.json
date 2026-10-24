@@ -29,6 +29,7 @@
     "lint": "bsh lint",
     "test": "vitest run"
   },
+  "dependencies": {},
   "devDependencies": {
     "@bomb.sh/tools": "^0.0.5",
     "@changesets/cli": "^2.29.8",
